@@ -1,0 +1,7 @@
+{  
+    "employee": {  
+        "eventName":       "stoppayment",   
+        "roleId":      "web",   
+        "channelId":    "owa"  
+    }  
+}
